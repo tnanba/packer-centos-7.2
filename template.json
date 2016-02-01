@@ -41,6 +41,7 @@
       "scripts": [
         "script/ipv6.sh",
         "script/sshd.sh",
+        "script/update.sh",
         "script/vagrant.sh",
         "script/virtualbox.sh",
         "script/cleanup.sh",
